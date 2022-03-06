@@ -1,0 +1,164 @@
+{
+    "resmi_sirket_adi" : "GUZEL BİR LTD. ŞTİ.",
+    "slogan": "Ben çok güzel bir sloganım! \n Hem de şimdiye kadar yazılan!",
+
+    "navbar_logo": "logo/white.svg",
+    "sticky_logo": {
+        "enabled": true,
+        "img": "logo/default.png"
+    },
+    
+    "tel": {
+        "no": "+90 111 111 1111",
+        "whatsapp_mesaj": "Merhaba, ben size siteniz üzerinden ulaşıyorum "
+    },
+
+    "eposta": {
+        "adres": "landing@example.com",
+        "baslik": "Merhaba, ben müşteriniz: ",
+        "icerik": "Size example.com üzerinden ulaşıyorum."
+    },
+    
+
+    "hero": {
+        "img": "generic/hero-bg.webp",
+        "strings": [
+            "Onları",
+            "Bunları",
+            "Şunları",
+            "Aklınıza ne geliyorsa işte"
+        ],
+        "alt": " yapabilirim!",
+        "buton_text": "Başlayalım!"
+    },
+
+
+
+    "hizmet": {
+        "baslik": "SUNDUĞUMUZ HİZMETLER",
+        "altbaslik": "İşte sunduğumuz hizmetlerden birkaçı!",
+        "slidelar": [
+            {
+                "img": "hizmetler/dergi1.webp",
+                "aciklama_alanini_sakla": false,
+                "title": "SİZİN ADINIZA YAPALIM",
+                "explanation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident."
+            },
+            {
+                "img": "hizmetler/dergi2.webp",
+                "aciklama_alanini_sakla": false,
+                "title": "BROŞÜRÜNÜZÜ HAZIRLAYALIM",
+                "explanation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident."
+            },
+            {
+                "img": "hizmetler/editor.webp",
+                "aciklama_alanini_sakla": false,
+                "title": "LOGONUZU TASARLAYALIM",
+                "explanation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident."
+            },
+            {
+                "img": "hizmetler/kapak.webp",
+                "aciklama_alanini_sakla": false,
+                "title": "KAPAĞINIZI HAZIRLAYALIM",
+                "explanation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident."
+            },
+            {
+                "img": "hizmetler/salesman.webp",
+                "aciklama_alanini_sakla": false,
+                "title": "PAZARLAMA DANIŞMANINIZ OLALIM",
+                "explanation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident."
+            }
+        ]
+    },
+
+    "kullanici_yorumlari_arka_plan": "generic/port-4.webp",
+    "kullanici_yorumlari": [
+        {
+          "user": "Nermin Aklıbaşında",
+          "message": "İnanılmaz güzel şeyler yaptılar, aklım hala yapamadıklarında...",
+          "stars": 5
+        },
+        {
+          "user": "Nefret Bombası",
+          "message": "Bir yıldız puan kırdım çünkü tek sayılardan nefret ederim!",
+          "stars": 4
+        },
+        {
+          "user": "Zaman Geriye Aksın",
+          "message": "Aklımdan geçenleri yaptırdım mutluyum :)))))",
+          "stars": 5
+        },
+        {
+          "user": "A**** R***",
+          "message": "Tek kelimeyle rezalet! Bir yıldız...",
+          "stars": 1
+        },
+        {
+          "user": "Zeliha Yağmur",
+          "message": "Çok profesyonel istek ve taleplerinize anında yanıt veren bir firma beeendim :)",
+          "stars": 5
+        },
+        {
+          "user": "K**** A***",
+          "message": "Onları, bunları ve şunları yaptırdım. YAPTIRMAZ OLAYDIM :'(",
+          "stars": 3
+        }
+    ],
+
+      
+
+    "portfolyo": {
+        "baslik": "NELER YAPTIK",
+        "altbaslik": "İşte tamamladığımız bazı güzel işler :)"
+    },
+
+
+
+    "rehber": [
+        {
+            "icon": "bi-calculator",
+            "baslik": "FİYAT HESAPLAYIN",
+            "altbaslik": "Fiyat hesaplama aracımızı kullanarak tahmini bir fiyat alın",
+            "ekstra_alan": "ÇOK YAKINDA!"
+        },
+        {
+            "icon": "bi-telephone",
+            "baslik": "BİZE ULAŞIN",
+            "altbaslik": "Telefon, e-posta veya Whatsapp aracılığıyla bize ulaşın",
+            "ekstra_alan": ""
+        },
+        {
+            "icon": "bi-list-task",
+            "baslik": "İSTEKLERİNİZİ İLETİN",
+            "altbaslik": "Almak istediğiniz hizmetleri bize iletin ve nihai ücreti öğrenin",
+            "ekstra_alan": ""
+        },
+        {
+            "icon": "bi-check",
+            "baslik": "ŞUNLARINIZI TESLİM ALIN",
+            "altbaslik": "Yaptırdığınız şunları ve bunlarınızı sorunsuz bir şekilde teslim alın",
+            "ekstra_alan": ""
+        }
+    ],
+
+    
+    
+    "footer" : {
+        "instagram_link": "https://www.instagram.com",
+        "facebook_link": "https://www.facebook.com"
+    },
+
+
+
+    "about": {
+        "top_img": "generic/generic1.webp",
+        "thumbnail_img": "generic/port-4.webp",
+        "baslik": "BİZ KİMİZ",
+        "adres": "Bize her zaman; 0111 111 1111 nolu telefondan, landing@example.com eposta adresimizden ve internet sitemiz üzerinden ulaşabilirsiniz. Yani gelmeyin buraya tamam mı. \n\nTarih Cad. Tatil Bulvarı. No:46 niv cörsi",
+        "kurum": "landingmanding.com",
+        "aciklama": "Dünyadaki en iyi onları, bunları ve şunları yapan bir firmayız..."
+    },
+
+    "gizlilik_politikası": "Ben şöyle gizliyim böyle gizliyim, yani anlayacağınız çok gizliyim. \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborumnumquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentiumoptio, eaque rerum! Provident similique accusantium nemo autem. Veritatisobcaecati tenetur iure eius earum ut molestias architecto voluptate aliquamnihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdamrecusandae alias error harum maxime adipisci amet laborum. Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur fugiat, temporibus enim commodi iusto libero magni deleniti quod quam consequuntur! Commodi minima excepturi repudiandae velit hic maximedoloremque. Quaerat provident commodi consectetur veniam similique ad earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantiummodi minima sunt esse temporibus sint culpa, recusandae aliquam numquam totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam quasi aliquam eligendi, placeat qui corporis!",
+    "hizmet_sozlesmesi": "Şöyle sözleştik böyle sözleştik... Sonradan gelip bunu niye böyle yaptın deme tamam mı. \n Ha bi de yolda kırılan mırılan bir şey olursa geçmiş olsun karışmıyorum ben. muhaha \n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborumnumquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentiumoptio, eaque rerum! Provident similique accusantium nemo autem. Veritatisobcaecati tenetur iure eius earum ut molestias architecto voluptate aliquamnihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdamrecusandae alias error harum maxime adipisci amet laborum. Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur fugiat, temporibus enim commodi iusto libero magni deleniti quod quam consequuntur! Commodi minima excepturi repudiandae velit hic maximedoloremque. Quaerat provident commodi consectetur veniam similique ad earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantiummodi minima sunt esse temporibus sint culpa, recusandae aliquam numquam totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam quasi aliquam eligendi, placeat qui corporis!"
+}
